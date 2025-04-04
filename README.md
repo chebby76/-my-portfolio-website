@@ -8,10 +8,6 @@ Hello there! 👋 Thank you for visiting my portfolio website. This site is a re
 
 This portfolio website is designed to highlight my skills in web development, featuring a clean and responsive design that looks great on any device. Whether you're a potential employer, client, or just curious, I hope you find what you're looking for!
 
-## Live Demo 🚀
-
-You can check out my portfolio live at: [Live Demo](https://chebby76.github.io/-my-portfolio-website/)
-
 ## Features ✨
 
 - Project Showcase: Explore a collection of my projects, complete with descriptions and links to live demos. 🛠️
@@ -36,6 +32,11 @@ I’ve built this portfolio using a variety of technologies, including:
 1. Explore Projects: Take a look at the showcased projects to see what I’ve been working on. 🔍
 2. Read About Me: Learn more about my background, skills, and what drives me. 📖
 3. Contact Me: Feel free to use the contact form to send me a message. I’d love to hear from you! 💬
+
+## Live Demo 🚀
+
+You can check out my portfolio live at: [🔗 My portfolio website](https://chebby76.github.io/-my-portfolio-website/)
+
 
 ## Contributing 🤝
 
